@@ -45,6 +45,11 @@ public class testHHVacancies {
         getCountOfSkillsByVacancy(vacancy, array);
     }
 
+    public void getVacancy(){
+//        vacancy/18694662
+    }
+
+
 
     public void getCountOfSkillsByVacancy(String vacancy, String... skills) {
 
